@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project was developed as part of the **AHCI Semester Project (Spring 2026)**. The objective was to design a complete, user-centered application prototype using **Figma**, following the core principles of Human-Computer Interaction (HCI).
+This project was developed as part of the **AHCI Semester Project (Spring 2026)**. The objective was to design a complete, user-centered application prototype using **Figma**, following the core principles of Human-Computer Interaction.
 
 The prototype focuses on providing an intuitive, visually consistent, and user-friendly experience while demonstrating modern UI/UX design practices.
 
